@@ -4,7 +4,7 @@ Question 1
 - Run $ python question.py in the command line
 - This you produce results
 
-#Question 2
+Question 2
 - To install pytest, run the following in your terminal
  $ sudo apt install python3-pip
  $ sudo pip install -U pytest
@@ -13,7 +13,7 @@ run the following in your terminal
  $ pytest question2.py
 - The results should show a pass test
 
-#Question3
+Question3
 - In Script start with the following
 	Import os #To get environmental virables
 	Import time #To calculate the time it takes to hit a website
@@ -23,7 +23,7 @@ run the following in your terminal
 - After completing the script, run the following command
  $ python question3.py
 
-#Question 4 
+Question 4 
 - Create the docker Image for the python script
     1. Create the Dockerfile
 	2. Build the Docker Container
